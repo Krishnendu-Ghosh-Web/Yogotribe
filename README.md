@@ -1,12 +1,56 @@
-# React + Vite
+# 🧘‍♀️ Yogotribe
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple frontend challenge built with **React**. Yogotribe displays a random cat fact each time you click the button. Facts are fetched from the public API [catfact.ninja](https://catfact.ninja/fact).
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔍 Features
 
-## Expanding the ESLint configuration
+- ✅ Built with React JS
+- 🎯 Uses async/await for fetching API
+- 🐱 Fetches and displays random cat facts
+- 🖱️ Single-button interface
+- ⚡ Fast and minimal UI
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 📦 Installation
+
+1. **Clone the repository**
+
+```bash
+https://github.com/Krishnendu-Ghosh-Web/Yogotribe.git
+2.Navigate into the project folder
+  cd Yogotribe
+3.Install dependencies
+   npm install
+▶️ Running the App
+   npm run dev
+The app will run at: http://localhost:3000
+
+Click the button to get a new random cat fact from the API.
+
+🔧 Tech Stack
+React JS (with functional components)
+
+JavaScript (ES6+)
+
+CSS (or Tailwind/Bootstrap if used)
+
+Public API: catfact.ninja
+
+🗂️ Folder Structure
+Yogotribe/
+├── public/
+├── src/
+│   ├── App.js
+│   ├── index.js
+│   └── ...
+├── package.json
+└── README.md
+
+✍️ Author
+Made with ❤️ by Krishnendu Ghosh
+
+
+
