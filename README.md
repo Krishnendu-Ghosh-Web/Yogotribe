@@ -20,7 +20,7 @@ A simple frontend challenge built with **React**. Yogotribe displays a random ca
 
 ```bash
 https://github.com/Krishnendu-Ghosh-Web/Yogotribe.git
-**2.Navigate into the project folder**
+# 2.Navigate into the project folder
   cd Yogotribe
 3.Install dependencies
    npm install
